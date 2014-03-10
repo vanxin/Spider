@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: GBK -*-
 import re
 import urllib
 import md5
